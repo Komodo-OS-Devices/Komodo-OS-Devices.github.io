@@ -96,5 +96,19 @@
             "xda_thread": "Undefined"
          }
       ] 
+   },
+   {
+      "name": "Mi A1",
+      "brand": "Xiaomi",
+      "codename": "tissot",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Rifky Mcz",
+            "maintainer_url": "https://github.com/rifky_mcz",
+            "xda_thread": "Undefined"
+         }
+      ] 
    }
 ]
