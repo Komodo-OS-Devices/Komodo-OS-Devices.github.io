@@ -484,7 +484,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 3px;
   background: #1dc8cd;
   background: linear-gradient(0deg, #1dc8cd 0%, #55fabe 100%);
-  margin: 0 auto;
+  margin: auto;
   margin-bottom: 20px;
   margin-top: 20px;
 }
