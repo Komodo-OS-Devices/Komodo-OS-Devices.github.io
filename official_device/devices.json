@@ -110,5 +110,19 @@
             "xda_thread": "Undefined"
          }
       ] 
+   },
+   {
+      "name": "Redmi 4X",
+      "brand": "Xiaomi",
+      "codename": "santoni",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "ZHANtech™",
+            "maintainer_url": "https://github.com/zhantech",
+            "xda_thread": "Undefined"
+         }
+      ] 
    }
 ]
