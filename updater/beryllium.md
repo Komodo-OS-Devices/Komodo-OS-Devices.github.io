@@ -1,9 +1,7 @@
-# Komodo OS Rom - v2.5
+# Komodo OS Rom - v2.7
 
-Build date : June 26, 2020
+Build date : July 27, 2020
 Device Changelog :
-- Updated egl & vulkan driver
-- Updated vendor common blobs from V11.0.5.0.QDGMIXM global stable (polaris)
-- Upstream kernel linux 4.9.228
-- Updated device fingerprint to coral june
-- fixed low mic gain
+- Updated vendor blobs from V11.0.9.0
+- Upstream kernel linux 4.9.230
+- Updated device fingerprint to v11.0.9.0
