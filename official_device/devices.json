@@ -124,5 +124,19 @@
             "xda_thread": "Undefined"
          }
       ] 
+   },
+   {
+      "name": "Redmi 6",
+      "brand": "Xiaomi",
+      "codename": "cereus",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Galih Gusti Priatna (wulan17)",
+            "maintainer_url": "https://github.com/wulan17",
+            "xda_thread": "Undefined"
+         }
+      ] 
    }
 ]
