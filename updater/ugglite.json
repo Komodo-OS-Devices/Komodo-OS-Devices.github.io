@@ -1,0 +1,17 @@
+{
+  "error"       : false,
+  "id"          : "fda87103154e47382f4debdc5de595d70f56fc3d6aca635f379ae95b2d2101d8",
+  "filename"    : "KomodoOS-ugglite-2.7-20200727-1649-RELEASE-TOXICOFERA.zip",
+  "datetime"    : 1595868494,
+  "version"     : "2.7",
+  "size"        : 813713159,
+  "url"         : "https://sourceforge.net/projects/komodos-rom/files/ugglite/KomodoOS-ugglite-2.7-20200727-1649-RELEASE-TOXICOFERA.zip/download"
+  "filehash"    : "94941644552f387c7d5ec9ef490faa7f",
+  "website_url" : "https://komodo-os.my.id",
+  "news_url"    : "https://t.me/KomodOSRom",
+  "donate_url"  : "https://t.me/heinzdf",
+  "maintainer"  : "Heinz Der Flugel",
+  "maintainer_url" : "https://github.com/fortifying",
+  "forum_url"      : "https://t.me/KomodOSGroup",
+}
+
