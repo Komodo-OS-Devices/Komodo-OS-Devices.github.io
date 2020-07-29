@@ -1,0 +1,16 @@
+{
+  "error"       : false,
+  "id"          : "eaa7295aade0159edaeb1c15a317cd9e6e8597eb05cb0ac5993f9cae56a0c60e",
+  "filename"    : "KomodoOS-cereus-2.7-20200729-0953-RELEASE-TOXICOFERA.zip",
+  "datetime"    : 1596016342,
+  "version"     : "2.5",
+  "size"        : 581205708,
+  "url"         : "https://sourceforge.net/projects/komodos-rom/files/cereus/KomodoOS-cereus-2.7-20200729-0953-RELEASE-TOXICOFERA.zip/download",
+  "filehash"    : "ca9affffad6ef1d713876eb2959925b0",
+  "website_url" : "https://komodo-os.my.id",
+  "news_url"    : "https://t.me/KomodOSRom",
+  "donate_url"  : "https://www.paypal.me/wulan17",
+  "maintainer"  : "wulan17",
+  "maintainer_url" : "https://github.com/wulan17",
+  "forum_url"      : "https://t.me/KomodOSGroup",
+}
