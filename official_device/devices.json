@@ -152,5 +152,19 @@
             "xda_thread": "Undefined"
          }
       ] 
+   },
+   {
+      "name": "Redmi 7",
+      "brand": "Xiaomi",
+      "codename": "onclite",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Hadad Darajat (TheSync)",
+            "maintainer_url": "https://github.com/TheSync",
+            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-komodo-os-t4122125"
+         }
+      ] 
    }
 ]
