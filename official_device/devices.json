@@ -166,5 +166,19 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-komodo-os-t4122125"
          }
       ] 
+   },
+   {
+      "name": "Redmi Note 9 Pro",
+      "brand": "Xiaomi",
+      "codename": "joyeuse",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Dhimas Bagus Prayoga (Kry9toN)",
+            "maintainer_url": "https://github.com/Kry9toN",
+            "xda_thread": "Undefined"
+         }
+      ]
    }
 ]
