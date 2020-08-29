@@ -49,7 +49,7 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Chandra Wijaya",
+            "maintainer_name": "Chandra Wijaya, Rizal Amrullah",
             "maintainer_url": "https://github.com/ChanWij",
             "xda_thread": "Undefined"
          }
@@ -112,6 +112,20 @@
       ] 
    },
    {
+      "name": "Xiaomi Redmi Note 5A Lite",
+      "brand": "Xiaomi",
+      "codename": "ugglite",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Heinz Der Flugel",
+            "maintainer_url": "https://github.com/fortifying",
+            "xda_thread": "Undefined"
+         }
+      ] 
+   },
+   {
       "name": "Redmi 4X",
       "brand": "Xiaomi",
       "codename": "santoni",
@@ -138,5 +152,33 @@
             "xda_thread": "Undefined"
          }
       ] 
+   },
+   {
+      "name": "Redmi 7",
+      "brand": "Xiaomi",
+      "codename": "onclite",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Hadad Darajat (TheSync)",
+            "maintainer_url": "https://github.com/TheSync",
+            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-komodo-os-t4122125"
+         }
+      ] 
+   },
+   {
+      "name": "Redmi Note 9 Pro",
+      "brand": "Xiaomi",
+      "codename": "joyeuse",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Dhimas Bagus Prayoga (Kry9toN)",
+            "maintainer_url": "https://github.com/Kry9toN",
+            "xda_thread": "Undefined"
+         }
+      ]
    }
 ]

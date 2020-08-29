@@ -2,6 +2,10 @@
 
 Build date : July 1, 2020
 Device Changelog :
-- New DT thanks for sebaubuntu
-- Fixed sim 2 for now
-- Kernel upstream lastest
+- Add freefrom
+- Build Enforce
+- Merge v4.9.231
+- Merge tag caf Kernel LA.UM.8.6.2.r1-07800-89xx.0
+- Fix sensor
+- FP use original vince (maybe safetynet unchecked)
+
