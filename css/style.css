@@ -11,7 +11,7 @@
 
 body {
   background: #fff;
-  color: #666666;
+  color: #ccc;
   font-family: "Open Sans", sans-serif;
   overflow-x: hidden;
 }
@@ -466,7 +466,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header .section-title {
   font-size: 32px;
-  color: #111;
+  color: #ccc;
   text-align: center;
   font-weight: 400;
 }
@@ -493,7 +493,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .section-bg {
-  background: #eff5f5;
+  background: #282828;
 }
 
 /* About Us Section
@@ -722,8 +722,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #more-features .box {
   padding: 40px;
   margin-bottom: 30px;
-  box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
-  background: #fff;
+  background: #363636;
   transition: 0.4s;
 }
 
@@ -757,10 +756,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 100px;
   margin-bottom: 2px;
   font-size: 14px;
+  color: #ccc;
 }
 
 #more-features h4 a {
-  color: #111;
+  color: #ccc;
 }
 
 #more-features h5 a {
@@ -1030,6 +1030,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 60px 0;
   overflow: hidden;
+  background-color: #363636;
 }
 
 #contact .contact-about h3 {
@@ -1091,6 +1092,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 0 10px 42px;
   line-height: 28px;
   font-size: 14px;
+  color: #1dc8cd;
 }
 
 #contact .form #sendmessage {
@@ -1154,8 +1156,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 0;
-  color: #333;
+  color: #ccc;
   font-size: 14px;
+  background-color: #282828;
 }
 
 #footer .credits {
@@ -1164,7 +1167,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-links a {
-  color: #666;
+  color: #ccc;
   padding-left: 15px;
 }
 
