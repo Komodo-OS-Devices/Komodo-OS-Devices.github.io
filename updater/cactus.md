@@ -1,6 +1,5 @@
-# Komodo OS Rom - v2.7
+# Komodo OS Rom - v2.9
 
-Build date : July 29, 2020
+Build date : September 10, 2020
 Device Changelog :
-- Hotspot Fixed
-- Offline Charging Fixed
+- Update September 2020 Security Patch
