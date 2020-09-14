@@ -168,6 +168,20 @@
       ] 
    },
    {
+      "name": "Redmi 4A,
+      "brand": "Xiaomi",
+      "codename": "rolex",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Mhmmdfadlyas!",
+            "maintainer_url": "https://github.com/fadlyas07",
+            "xda_thread": "Undefined"
+         }
+      ] 
+   },
+   {
       "name": "Redmi Note 9 Pro",
       "brand": "Xiaomi",
       "codename": "joyeuse",
