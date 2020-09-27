@@ -724,6 +724,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 30px;
   background: #363636;
   transition: 0.4s;
+  border-radius: 8px;
 }
 
 #more-features .icon {
