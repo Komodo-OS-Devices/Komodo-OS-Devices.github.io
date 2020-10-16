@@ -1,5 +1,6 @@
-# Komodo OS Rom - v2.9
+# Komodo OS Rom - v2.9.1
 
-Build date : September 10, 2020
+Build date : October 16, 2020
 Device Changelog :
-- Update September 2020 Security Patch
+- Update October 2020 Security Patch
+- Add Face Unlock
