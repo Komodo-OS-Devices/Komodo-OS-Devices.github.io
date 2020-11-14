@@ -1,11 +1,13 @@
 {
   "result": [
     {
-      "creator": "test",
+      "creator": "R5Brush",
+      "name": "komodo Line",
       "wallpaper": "https://test.com"
     },
     {
-      "creator": "test2",
+      "creator": "R5Brush",
+      "name": "komodo liquid logo",
       "wallpaper": "https://test2.com"
     }
   ]
