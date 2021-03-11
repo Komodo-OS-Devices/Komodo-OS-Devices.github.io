@@ -1,0 +1,16 @@
+{
+  "error"       : false,
+  "id"          : "0908a928da38c6fe4f8d981034126ccf5a55f965b586af4f7a783fe4ed853087",
+  "filename"    : "KomodoOS-certus-2.9.4-20210311-1219-RELEASE-TOXICOFERA.zip",
+  "datetime"    : 1615465097,
+  "version"     : "2.9.4",
+  "size"        : 573711542,
+  "url"         : "https://sourceforge.net/projects/komodos-rom/files/certus/KomodoOS-certus-2.9.4-20210311-1219-RELEASE-TOXICOFERA.zip/download",
+  "filehash"    : "ebf974cf431126e5521ae4dc7c7cd986",
+  "website_url" : "https://komodo-os.my.id",
+  "news_url"    : "https://t.me/KomodOSRom",
+  "donate_url"  : "https://www.paypal.me/wulan17",
+  "maintainer"  : "wulan17",
+  "maintainer_url" : "https://github.com/wulan17",
+  "forum_url"      : "https://t.me/KomodOSGroup",
+}
