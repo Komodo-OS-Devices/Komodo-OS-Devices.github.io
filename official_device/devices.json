@@ -159,11 +159,11 @@
       "codename": "onclite",
       "supported_versions": [
          {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Hadad Darajat (TheSync)",
-            "maintainer_url": "https://github.com/TheSync",
-            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-komodo-os-t4122125"
+            "version_code": "11",
+            "version_name": "11",
+            "maintainer_name": "Hadad",
+            "maintainer_url": "https://github.com/hdrjt",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-komodo-os-official.4250403"
          }
       ] 
    },
