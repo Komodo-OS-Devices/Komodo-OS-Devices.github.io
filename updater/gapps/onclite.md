@@ -1,17 +1,21 @@
-# Komodo OS Rom - v3.0
+# Komodo OS Rom - v3.1
 
-Build Date: Mar 21, 2021
+Build Date: Jun 14, 2021
 
 Device Changelog:
-- Initial release based on Android 11
-- Specify Wi-Fi and Tethering RRO's
-- Update boot scripts from 'LA.UM.9.6.2.r1-03300-89xx.0'
-- Kernel CAF tag 'LA.UM.9.6.2.r1-03600-89xx.0'
-- Include Display calibration data from stock
-- Include SVI config from stock
-- F2FS File System supported
-- Shipped with latest Google Camera Go
-- Enable Dex2oat usage
-- Exclude CarrierConfig overlays from RRO's
-- Use AOSP BT stack
-- Migrate to Health 2.1 HAL
+- Enforcing SELinux
+- Shipped with Google Camera Go with Night Mode + AUX (2nd back camera) switching support
+- Set GPU as default debug composition type
+- Increase padding for Notifications and QS panel
+- Implement MagiskHide into vendor init
+- Override build properties from vendor init
+- Use build properties from Redfin (RQ3A.210605.005) release
+- Match main and lockscreen status bar padding as per stock
+- Enable EGL HW Rendering
+
+Notes:
+- Clean Flash recomennded
+- GApps release
+- Use Magisk v23 if wanna root
+- CTS/SafetyNet need MagiskHide
+- Banking apps working
