@@ -21,7 +21,7 @@ function loadJSON(value) {
     htmlString +=       "<div>";
     htmlString +=         "<h5>" + value[i].codename + "</h5>" ;
     htmlString +=         "<p>Maintainer : <a href='" + value[i].github + "' class='text-body fw-bold' target='_blank'>" + value[i].maintainer + "</a></p>";
-    htmlString +=         "<p>Changelog : <a href='" + value[i].clraw + "' class='text-body' target='_blank'>" + value[i].changelog + "</a></p>";
+    htmlString +=         "<p>Changelog : <a href='" + value[i].clraw + "' class='text-body fw-bold' target='_blank'>" + value[i].changelog + "</a></p>";
     htmlString +=       "</div>";
     htmlString +=       "<div>";
     htmlString +=         "<a href='" + value[i].download + "' class='btn btn-primary px-3 mt-2' title='Download'><i class='fas fa-download fa-lg'></i><span class='d-none d-md-inline'> Download</span></a>";
@@ -56,7 +56,7 @@ $('#search').keyup(function(){
     output +=       "<div>";
     output +=         "<h5>" + value.codename + "</h5>" ;
     output +=         "<p>Maintainer : <a href='" + value.github + "' class='text-body fw-bold' target='_blank'>" + value.maintainer + "</a></p>";
-    output +=         "<p>Changelog : <a href='" + value.clraw + "' class='text-body' target='_blank'>" + value.changelog + "</a></p>";
+    output +=         "<p>Changelog : <a href='" + value.clraw + "' class='text-body fw-bold' target='_blank'>" + value.changelog + "</a></p>";
     output +=       "</div>";
     output +=       "<div>";
     output +=         "<a href='" + value.download + "' class='btn btn-primary px-3 mt-2' title='Download'><i class='fas fa-download fa-lg'></i><span class='d-none d-md-inline'> Download</span></a>";
