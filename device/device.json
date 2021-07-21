@@ -115,5 +115,14 @@
         "github" : "https://github.com/developer",
         "changelog" : "",
         "download" : "https://sourceforge.net/"
+    },
+    {
+        "brand" : "Xiaomi",
+        "device" : "Mi9",
+        "codename" : "Cepheus",
+        "maintainer" : "Developer",
+        "github" : "https://github.com/trisfaizal",
+        "changelog" : "https://trisf.my.id",
+        "download" : "https://sourceforge.net/"
     }
 ]
