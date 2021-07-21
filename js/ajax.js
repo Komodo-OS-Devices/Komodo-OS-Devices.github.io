@@ -56,7 +56,7 @@ $('#search').keyup(function(){
     output +=       "<div>";
     output +=         "<h5>" + value.codename + "</h5>" ;
     output +=         "<p>Maintainer : <a href='" + value.github + "' class='text-body fw-bold' target='_blank'>" + value.maintainer + "</a></p>";
-    output +=         "<p>Changelog : <a href='" + value.changelog + "' class='text-body' target='_blank'>" + value.changelog + "</a></p>";
+    output +=         "<p>Changelog : <a href='" + value.github + "' class='text-body' target='_blank'>" + value.changelog + "</a></p>";
     output +=       "</div>";
     output +=       "<div>";
     output +=         "<a href='" + value.download + "' class='btn btn-primary px-3 mt-2' title='Download'><i class='fas fa-download fa-lg'></i><span class='d-none d-md-inline'> Download</span></a>";
