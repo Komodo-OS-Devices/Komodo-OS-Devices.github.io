@@ -21,7 +21,7 @@ function loadJSON(value) {
     htmlString +=       "<div>";
     htmlString +=         "<h5>" + value[i].codename + "</h5>" ;
     htmlString +=         "<p>Maintainer : <a href='" + value[i].github + "' class='text-body fw-bold' target='_blank'>" + value[i].maintainer + "</a></p>";
-    htmlString +=         "<p>Changelog : <a href='" + value[i].changelog + "' class='text-body' target='_blank'>" + value[i].changelog + "</a></p>";
+    htmlString +=         "<p>Changelog : <a href='" + value[i].github + "' class='text-body' target='_blank'>" + value[i].changelog + "</a></p>";
     htmlString +=       "</div>";
     htmlString +=       "<div>";
     htmlString +=         "<a href='" + value[i].download + "' class='btn btn-primary px-3 mt-2' title='Download'><i class='fas fa-download fa-lg'></i><span class='d-none d-md-inline'> Download</span></a>";
