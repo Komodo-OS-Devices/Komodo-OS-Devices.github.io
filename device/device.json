@@ -122,7 +122,8 @@
         "codename" : "Cepheus",
         "maintainer" : "؜𝐭𝐫𝐢𝐬𝐟‌‌",
         "github" : "https://github.com/trisfaizal",
-        "changelog" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus",
+        "changelog" : "Changelog",
+        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus",
         "download" : "https://sourceforge.net/"
     }
 ]
