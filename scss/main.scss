@@ -305,6 +305,13 @@ h6 {
   padding-top: 142px;
   
   #changelog {
+    .cl-scroll {
+      display: block;
+      height: 124px;
+      margin-top: -124px;
+      visibility: hidden;
+    }
+
     ul {
       li {
         line-height: 2em;
