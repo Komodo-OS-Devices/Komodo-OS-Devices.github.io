@@ -20,9 +20,9 @@ function loadJSON(value) {
     htmlString +=     `<div class="accordion-body d-flex justify-content-between">`;
     htmlString +=       `<div>`;
     htmlString +=         `<h3 class='mb-4'>${value[i].codename}</h3>` ;
-    htmlString +=         `<p><span class="fs-4 fw-bold"><i class="fas fa-fw fa-user-hard-hat"></i> Maintainer :</span><br><a href="${value[i].github}" class="text-body" target="_blank">${value[i].maintainer}</a></p>`;
+    htmlString +=         `<p><span class="fs-5 fw-bold"><i class="fas fa-fw fa-user-hard-hat"></i> Maintainer :</span><br><a href="${value[i].github}" class="text-body" target="_blank">${value[i].maintainer}</a></p>`;
     if (value[i].changelog != "" || value[i].changelog == undefined) {      
-      htmlString +=         `<p><span class="fs-4 fw-bold"><i class="fas fa-fw fa-file-code"></i> Device Changelog :</span><br>`;
+      htmlString +=         `<p><span class="fs-5 fw-bold"><i class="fas fa-fw fa-mobile-android"></i> Changelog :</span><br>`;
       for (const changelog in value[i].changelog) {
         htmlString += `- <a href='${value[i].changelog[changelog]}' class='text-body text-decoration-underline' target='_blank'>${changelog}</a><br>`
       }
@@ -61,9 +61,9 @@ $('#search').keyup(function(){
       output +=     `<div class="accordion-body d-flex justify-content-between">`;
       output +=       `<div>`;
       output +=         `<h3 class='mb-4'>${value.codename}</h3>` ;
-      output +=         `<p><span class="fs-4 fw-bold"><i class="fas fa-fw fa-user-hard-hat"></i> Maintainer :</span><br><a href="${value.github}" class="text-body" target="_blank">${value.maintainer}</a></p>`;
+      output +=         `<p><span class="fs-5 fw-bold"><i class="fas fa-fw fa-user-hard-hat"></i> Maintainer :</span><br><a href="${value.github}" class="text-body" target="_blank">${value.maintainer}</a></p>`;
       if (value.changelog != "" || value.changelog == undefined) {      
-        output +=         `<p><span class="fs-4 fw-bold"><i class="fas fa-fw fa-file-code"></i> Device Changelog :</span><br>`;
+        output +=         `<p><span class="fs-5 fw-bold"><i class="fas fa-fw fa-mobile-android"></i> Changelog :</span><br>`;
         for (const changelog in value.changelog) {
           output += `- <a href='${value.changelog[changelog]}' class='text-body text-decoration-underline' target='_blank'>${changelog}</a><br>`
         }
