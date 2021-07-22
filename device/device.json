@@ -20,21 +20,23 @@
         "download" : "https://www.pling.com/p/1539069/"
     },
     {
-        "brand" : "",
-        "device" : "Realme 5 Pro",
-        "codename" : "RMX5",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
+        "brand" : "Realme",
+        "device" : "Realme C3",
+        "codename" : "RMX2020",
+        "maintainer" : "Felixxandi79",
+        "github" : "https://github.com/felixxandi79",
+        "changelog" : "Rattle",
+        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020",
         "download" : "https://sourceforge.net/"
     },
     {
-        "brand" : "",
-        "device" : "Realme XT",
-        "codename" : "RMXT",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
+        "brand" : "Realme",
+        "device" : "Narzo 10A",
+        "codename" : "RMX2020",
+        "maintainer" : "Felixxandi79",
+        "github" : "https://github.com/felixxandi79",
+        "changelog" : "Rattle",
+        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020",
         "download" : "https://sourceforge.net/"
     },
     {
