@@ -5,8 +5,9 @@
         "codename" : "Juice",
         "maintainer" : "؜fais",
         "github" : "https://github.com/droidsix",
-        "changelog" : "Rattle",
-        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
+        },
         "download" : "https://www.pling.com/p/1539069/"
     },
     {
@@ -15,8 +16,9 @@
         "codename" : "Juice",
         "maintainer" : "؜fais",
         "github" : "https://github.com/droidsix",
-        "changelog" : "Rattle",
-        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
+        },
         "download" : "https://www.pling.com/p/1539069/"
     },
     {
@@ -25,8 +27,9 @@
         "codename" : "RMX2020",
         "maintainer" : "Felixxandi79",
         "github" : "https://github.com/felixxandi79",
-        "changelog" : "Rattle",
-        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
+        },
         "download" : "https://sourceforge.net/"
     },
     {
@@ -35,8 +38,9 @@
         "codename" : "RMX2020",
         "maintainer" : "Felixxandi79",
         "github" : "https://github.com/felixxandi79",
-        "changelog" : "Rattle",
-        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
+        },
         "download" : "https://sourceforge.net/"
     },
     {
@@ -126,8 +130,9 @@
         "codename" : "Cepheus",
         "maintainer" : "؜𝐭𝐫𝐢𝐬𝐟‌‌",
         "github" : "https://github.com/trisfaizal",
-        "changelog" : "Rattle",
-        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus"   
+        },
         "download" : "https://sourceforge.net/"
     }
 ]
