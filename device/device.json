@@ -1,21 +1,23 @@
 [
     {
-        "brand" : "Asus",
-        "device" : "Zenfone Max Pro M1",
-        "codename" : "X00TD",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "brand" : "Poco",
+        "device" : "M3",
+        "codename" : "Juice",
+        "maintainer" : "؜fais",
+        "github" : "https://github.com/droidsix",
+        "changelog" : "Rattle",
+        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice",
+        "download" : "https://www.pling.com/p/1539069/"
     },
     {
-        "brand" : "Asus",
-        "device" : "Zenfone Max Pro M2",
-        "codename" : "X00BD",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "brand" : "Xiaomi",
+        "device" : "Redmi 9T",
+        "codename" : "Juice",
+        "maintainer" : "؜fais",
+        "github" : "https://github.com/droidsix",
+        "changelog" : "Rattle",
+        "clraw" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice",
+        "download" : "https://www.pling.com/p/1539069/"
     },
     {
         "brand" : "",
