@@ -12,6 +12,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 7",
+        "codename" : "Onclite",
+        "maintainer" : "؜Hadad",
+        "github" : "https://github.com/hadad",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/onclite"
+        },
+        "download" : "https://www.pling.com/p/1539068/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 9T",
         "codename" : "Juice",
         "maintainer" : "؜fais",
