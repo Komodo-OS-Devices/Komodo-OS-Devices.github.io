@@ -76,11 +76,12 @@ $('#search').keyup(function(){
       output +=     `</div>`;
       output +=   `</div>`;
       output += `</div>`;
-    } else {
-      output = `
-      <p class="text-center text-secondary mt-3">Device not found. Sorry :(</p>
-      `
-    }
+    } 
+    // else {
+    //   output = `
+    //   <p class="text-center text-secondary mt-3">Device not found. Sorry :(</p>
+    //   `
+    // }
   });   
   $('#result').html(output);
   });
