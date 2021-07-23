@@ -6,7 +6,10 @@ const vue = new Vue({
 
 // * Preloader
 $(document).ready(function(){
-  $("#preloader").fadeOut();
+  setTimeout(
+    function() {
+      $("#preloader").fadeOut();
+    }, 1000);
 });
 
 // * AOS
