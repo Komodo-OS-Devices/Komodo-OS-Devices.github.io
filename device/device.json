@@ -55,13 +55,26 @@
         "download" : "https://www.pling.com/p/1561805/"
     },
     {
-        "brand" : "Xiaomi",
-        "device" : "Redmi Note 4",
-        "codename" : "Mido",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "brand" : "Realme",
+        "device" : "5",
+        "codename" : "RMX1911",
+        "maintainer" : "henshin",
+        "github" : "https://github.com/henrysg29",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
+        },
+        "download" : "https://www.pling.com/p/1540535/"
+    },
+    {
+        "brand" : "Realme",
+        "device" : "5i",
+        "codename" : "RMX2030",
+        "maintainer" : "henshin",
+        "github" : "https://github.com/henrysg29",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
+        },
+        "download" : "https://www.pling.com/p/1540535/"
     },
     {
         "brand" : "Xiaomi",
