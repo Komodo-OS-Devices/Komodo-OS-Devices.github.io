@@ -158,5 +158,16 @@
             "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus"   
         },
         "download" : "https://sourceforge.net/"
+    },
+    {
+        "brand" : "Motorola",
+        "device" : "Moto G7 Power",
+        "codename" : "Ocean",
+        "maintainer" : "؜Ignacio Garcia",
+        "github" : "https://github.com/Naxo79",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/ocean"   
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/ocean"
     }
 ]
