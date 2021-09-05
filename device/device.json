@@ -1,6 +1,15 @@
 [
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 8/8A/8A Dual",
+        "codename" : "Olives",
+        "maintainer" : "skittels15",
+        "github" : "https://github.com/skittels15",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/olives/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Poco M3",
         "codename" : "Juice",
         "maintainer" : "؜fais",
@@ -83,7 +92,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/whyred/"
     },
     {
         "brand" : "Xiaomi",
@@ -92,7 +101,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/lavender/"
     },
     {
         "brand" : "Xiaomi",
@@ -101,7 +110,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/ginkgo/"
     },
     {
         "brand" : "Xiaomi",
@@ -119,7 +128,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/merlin"
     },
     {
         "brand" : "Xiaomi",
@@ -128,7 +137,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/joyeuse"
     },
     {
         "brand" : "Oneplus",
@@ -137,7 +146,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/"
     },
     {
         "brand" : "Oneplus",
@@ -146,7 +155,7 @@
         "maintainer" : "Developer",
         "github" : "https://github.com/developer",
         "changelog" : "",
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/"
     },
     {
         "brand" : "Xiaomi",
@@ -157,7 +166,7 @@
         "changelog" : {
             "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/cepheus"   
         },
-        "download" : "https://sourceforge.net/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/"
     },
     {
         "brand" : "Motorola",
