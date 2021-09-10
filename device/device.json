@@ -5,7 +5,9 @@
         "codename" : "Olives",
         "maintainer" : "skittels15",
         "github" : "https://github.com/skittels15",
-        "changelog" : "",
+        "changelog" : {
+            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/olives"
+        },
         "download" : "https://sourceforge.net/projects/komodos-rom/files/olives/"
     },
     {
@@ -15,7 +17,7 @@
         "maintainer" : "؜fais",
         "github" : "https://github.com/droidsix",
         "changelog" : {
-            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
+            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
         },
         "download" : "https://www.pling.com/p/1539069/"
     },
