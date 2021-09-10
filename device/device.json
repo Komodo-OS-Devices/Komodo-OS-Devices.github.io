@@ -1,17 +1,6 @@
 [
     {
         "brand" : "Xiaomi",
-        "device" : "Redmi 8/8A/8A Dual",
-        "codename" : "Olives",
-        "maintainer" : "skittels15",
-        "github" : "https://github.com/skittels15",
-        "changelog" : {
-            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/olives"
-        },
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/olives/"
-    },
-    {
-        "brand" : "Xiaomi",
         "device" : "Poco M3",
         "codename" : "Juice",
         "maintainer" : "؜fais",
@@ -20,6 +9,15 @@
             "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
         },
         "download" : "https://www.pling.com/p/1539069/"
+    },
+    {
+        "brand" : "Xiaomi",
+        "device" : "Redmi Note 5",
+        "codename" : "Whyred",
+        "maintainer" : "Developer",
+        "github" : "https://github.com/developer",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/whyred/"
     },
     {
         "brand" : "Xiaomi",
@@ -34,6 +32,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 8/8A/8A Dual",
+        "codename" : "Olives",
+        "maintainer" : "skittels15",
+        "github" : "https://github.com/skittels15",
+        "changelog" : {
+            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/olives"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/olives/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 9T",
         "codename" : "Juice",
         "maintainer" : "؜fais",
@@ -42,59 +51,6 @@
             "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
         },
         "download" : "https://www.pling.com/p/1539069/"
-    },
-    {
-        "brand" : "Realme",
-        "device" : "C3",
-        "codename" : "RMX2020",
-        "maintainer" : "Felixxandi79",
-        "github" : "https://github.com/felixxandi79",
-        "changelog" : {
-            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
-        },
-        "download" : "https://www.pling.com/p/1561805/"
-    },
-    {
-        "brand" : "Realme",
-        "device" : "Narzo 10A",
-        "codename" : "RMX2020",
-        "maintainer" : "Felixxandi79",
-        "github" : "https://github.com/felixxandi79",
-        "changelog" : {
-            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
-        },
-        "download" : "https://www.pling.com/p/1561805/"
-    },
-    {
-        "brand" : "Realme",
-        "device" : "5",
-        "codename" : "RMX1911",
-        "maintainer" : "henshin",
-        "github" : "https://github.com/henrysg29",
-        "changelog" : {
-            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
-        },
-        "download" : "https://www.pling.com/p/1540535/"
-    },
-    {
-        "brand" : "Realme",
-        "device" : "5i",
-        "codename" : "RMX2030",
-        "maintainer" : "henshin",
-        "github" : "https://github.com/henrysg29",
-        "changelog" : {
-            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
-        },
-        "download" : "https://www.pling.com/p/1540535/"
-    },
-    {
-        "brand" : "Xiaomi",
-        "device" : "Redmi Note 5",
-        "codename" : "Whyred",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/whyred/"
     },
     {
         "brand" : "Xiaomi",
@@ -180,5 +136,49 @@
             "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/ocean"   
         },
         "download" : "https://www.pling.com/p/1566311/"
+    },
+    {
+        "brand" : "Realme",
+        "device" : "C3",
+        "codename" : "RMX2020",
+        "maintainer" : "Felixxandi79",
+        "github" : "https://github.com/felixxandi79",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
+        },
+        "download" : "https://www.pling.com/p/1561805/"
+    },
+    {
+        "brand" : "Realme",
+        "device" : "Narzo 10A",
+        "codename" : "RMX2020",
+        "maintainer" : "Felixxandi79",
+        "github" : "https://github.com/felixxandi79",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/RMX2020"
+        },
+        "download" : "https://www.pling.com/p/1561805/"
+    },
+    {
+        "brand" : "Realme",
+        "device" : "5",
+        "codename" : "RMX1911",
+        "maintainer" : "henshin",
+        "github" : "https://github.com/henrysg29",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
+        },
+        "download" : "https://www.pling.com/p/1540535/"
+    },
+    {
+        "brand" : "Realme",
+        "device" : "5i",
+        "codename" : "RMX2030",
+        "maintainer" : "henshin",
+        "github" : "https://github.com/henrysg29",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/Realme_trinket"
+        },
+        "download" : "https://www.pling.com/p/1540535/"
     }
 ]
