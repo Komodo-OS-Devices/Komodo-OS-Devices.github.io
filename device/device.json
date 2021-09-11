@@ -65,9 +65,11 @@
         "brand" : "Xiaomi",
         "device" : "Redmi Note 8",
         "codename" : "Ginkgo",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
+        "maintainer" : "Karannnn4",
+        "github" : "https://github.com/karannnn4",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/ginkgo"
+        },
         "download" : "https://sourceforge.net/projects/komodos-rom/files/ginkgo/"
     },
     {
