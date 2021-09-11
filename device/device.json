@@ -54,6 +54,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi Note 6 Pro",
+        "codename" : "Tulip",
+        "maintainer" : "MOCHA",
+        "github" : "https://github.com/AlokRonaldo",
+        "changelog" : {
+            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/tulip"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/tulip/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi Note 7",
         "codename" : "Lavender",
         "maintainer" : "Developer",
