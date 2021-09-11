@@ -119,6 +119,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Mi6",
+        "codename" : "Sagit",
+        "maintainer" : "deny2311",
+        "github" : "https://github.com/@deny2311",
+        "changelog" : {
+            "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/sagit"   
+        },
+        "download" : "https://www.pling.com/p/1547767/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Mi9",
         "codename" : "Cepheus",
         "maintainer" : "؜𝐭𝐫𝐢𝐬𝐟‌‌",
