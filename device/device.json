@@ -100,7 +100,9 @@
         "codename" : "Begonia",
         "maintainer" : "TeraaBytee",
         "github" : "https://github.com/TeraaBytee",
-        "changelog" : "",
+        "changelog" : {
+            "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/begonia"
+        },
         "download" : "https://www.pling.com/p/1565383/"
     },
     {
