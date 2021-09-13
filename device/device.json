@@ -21,15 +21,6 @@
     },
     {
         "brand" : "Xiaomi",
-        "device" : "Redmi Note 5",
-        "codename" : "Whyred",
-        "maintainer" : "Developer",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/whyred/"
-    },
-    {
-        "brand" : "Xiaomi",
         "device" : "Redmi 7",
         "codename" : "Onclite",
         "maintainer" : "؜Hadad",
@@ -60,6 +51,15 @@
             "Rattle" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/juice"
         },
         "download" : "https://www.pling.com/p/1539069/"
+    },
+    {
+        "brand" : "Xiaomi",
+        "device" : "Redmi Note 5",
+        "codename" : "Whyred",
+        "maintainer" : "Rafiester",
+        "github" : "https://github.com/developer",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/whyred/"
     },
     {
         "brand" : "Xiaomi",
