@@ -12,6 +12,15 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 6/6A Unified",
+        "codename" : "Certus",
+        "maintainer" : "wulan17",
+        "github" : "https://github.com/wulan17",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/certus/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi Note 5",
         "codename" : "Whyred",
         "maintainer" : "Developer",
