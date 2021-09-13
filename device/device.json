@@ -54,6 +54,15 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi Note 4X",
+        "codename" : "Mido",
+        "maintainer" : "Rafiester",
+        "github" : "https://github.com/developer",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/mido/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi Note 5",
         "codename" : "Whyred",
         "maintainer" : "Rafiester",
