@@ -12,6 +12,15 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 5 Plus",
+        "codename" : "Vince",
+        "maintainer" : "Aurora",
+        "github" : "https://github.com/developer",
+        "changelog" : "",
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/vince/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 6/6A Unified",
         "codename" : "Certus",
         "maintainer" : "wulan17",
