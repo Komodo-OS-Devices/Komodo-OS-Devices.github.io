@@ -12,6 +12,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 4X",
+        "codename" : "Santony",
+        "maintainer" : "Krxyzn",
+        "github" : "https://github.com/Krxyzn",
+        "changelog" : {
+            "Sabre" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/santoni"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/santoni/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 5",
         "codename" : "Rosy",
         "maintainer" : "Neno",
