@@ -12,6 +12,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Poco X3 Pro",
+        "codename" : "Vayu",
+        "maintainer" : "𝚊𝚕𝚊𝚗𝚗𝚍𝚣",
+        "github" : "https://github.com/𝚊𝚕𝚊𝚗𝚗𝚍𝚣",
+        "changelog" : {
+            "Sabre" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/vayu"
+        },
+        "download" : "https://www.pling.com/p/1670191/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 4X",
         "codename" : "Santoni",
         "maintainer" : "Krxyzn",
