@@ -14,7 +14,7 @@
         "brand" : "Xiaomi",
         "device" : "Poco X3 Pro",
         "codename" : "Vayu",
-        "maintainer" : "𝚊𝚕𝚊𝚗𝚗𝚍𝚣",
+        "maintainer" : "𝚊𝚕𝚊𝚗𝚗𝚍𝚣 & Dzaky",
         "github" : "https://github.com/alanndz",
         "changelog" : {
             "Sabre" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/vayu"
@@ -89,6 +89,17 @@
             "Raptor" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/3.x/olives"
         },
         "download" : "https://sourceforge.net/projects/komodos-rom/files/olives/"
+    },
+    {
+        "brand" : "Xiaomi",
+        "device" : "Redmi 9 / Poco M2",
+        "codename" : "Lava",
+        "maintainer" : "mikazuuu07",
+        "github" : "https://github.com/Mikazuuu07",
+        "changelog" : {
+            "Sabre" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/lava"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/lava/"
     },
     {
         "brand" : "Xiaomi",
