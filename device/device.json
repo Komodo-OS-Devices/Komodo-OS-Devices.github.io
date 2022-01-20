@@ -187,10 +187,12 @@
         "brand" : "Xiaomi",
         "device" : "Redmi Note 9",
         "codename" : "Merlin",
-        "maintainer" : "Developer",
+        "maintainer" : "Nadins & Alicia",
         "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/merlin"
+        "changelog" : {
+            "Sabre" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlin"
+        },
+        "download" : "https://www.pling.com/p/1686644/"
     },
     {
         "brand" : "Xiaomi",
