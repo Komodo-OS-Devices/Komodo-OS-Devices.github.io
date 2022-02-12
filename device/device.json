@@ -216,6 +216,17 @@
         "download" : "https://sourceforge.net/projects/komodos-rom/files/joyeuse"
     },
     {
+        "brand" : "Xiaomi",
+        "device" : "Redmi Note 10 Pro/Max",
+        "codename" : "Joyeuse",
+        "maintainer" : "Sweet",
+        "github" : "https://github.com/sayooxx",
+        "changelog" : {
+            "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/sweet"
+        },
+        "download" : "#"
+    },
+    {
         "brand" : "Oneplus",
         "device" : "7T",
         "codename" : "OP7T",
