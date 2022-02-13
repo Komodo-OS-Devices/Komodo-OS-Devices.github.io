@@ -23,6 +23,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Poco F1",
+        "codename" : "Vayu",
+        "maintainer" : "Dzaky",
+        "github" : "https://github.com/zkyzzz",
+        "changelog" : {
+            "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/beryllium"
+        },
+        "download" : "https://www.pling.com/p/1707782/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 4X",
         "codename" : "Santoni",
         "maintainer" : "Krxyzn",
