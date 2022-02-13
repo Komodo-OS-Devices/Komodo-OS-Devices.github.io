@@ -212,14 +212,16 @@
         "codename" : "Joyeuse",
         "maintainer" : "KryPtoN",
         "github" : "https://github.com/Kry9toN",
-        "changelog" : "Initial build A12",
+        "changelog" : {
+            "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/joyeuse"
+        },
         "download" : "https://www.pling.com/p/1539067/"
     },
     {
         "brand" : "Xiaomi",
         "device" : "Redmi Note 10 Pro/Max",
-        "codename" : "Joyeuse",
-        "maintainer" : "Sweet",
+        "codename" : "Sweet",
+        "maintainer" : "SAYOOJ",
         "github" : "https://github.com/sayooxx",
         "changelog" : {
             "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/sweet"
