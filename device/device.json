@@ -224,7 +224,7 @@
         "changelog" : {
             "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/sweet"
         },
-        "download" : "#"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/sweet"
     },
     {
         "brand" : "Oneplus",
@@ -286,9 +286,8 @@
         "changelog" : {
             "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/RMX1941"
         },
-        "download" : "#"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/RMX1941"
     },
-    {
     {
         "brand" : "Realme",
         "device" : "C3",
