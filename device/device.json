@@ -230,6 +230,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi Note 10",
+        "codename" : "Mojito",
+        "maintainer" : "dblenk9",
+        "github" : "https://github.com/boedhack99",
+        "changelog" : {
+            "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/mojito"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/mojito"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi Note 10 Pro/Max",
         "codename" : "Sweet",
         "maintainer" : "SAYOOJ",
