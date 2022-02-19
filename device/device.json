@@ -12,6 +12,17 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Poco X3 NFC",
+        "codename" : "Surya",
+        "maintainer" : "Fauzan. aja",
+        "github" : "https://github.com/buglessx",
+        "changelog" : {
+            "Serunai" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/surya"
+        },
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/surya/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Poco X3 Pro",
         "codename" : "Vayu",
         "maintainer" : "𝚊𝚕𝚊𝚗𝚗𝚍𝚣 & Dzaky",
