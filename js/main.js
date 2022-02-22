@@ -34,11 +34,14 @@ function scrollFunction() {
     }
 }
 
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-  navbarDropdown.classList.remove('show');
-}
+$(function() {
+    $("#scroll-top").click(function() {
+        $('body, documentElement').animate({
+            scrollTop: 0
+          }, 1500, 'easeInOutExpo');
+        navbarDropdown.classList.remove('show');
+    });
+});
 
 // * Responsive navbar
 var prevScrollpos = window.pageYOffset;
