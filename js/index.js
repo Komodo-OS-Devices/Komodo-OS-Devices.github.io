@@ -44,7 +44,7 @@ fetch(`https://sourceforge.net/projects/komodos-rom/files/stats/json?start_date=
 // Get id form HTML
 const deviceTotal = document.getElementById('device')
 
-fetch(`https://raw.githubusercontent.com/Komodo-OS-Rom/vendor_komodo/11/komodo.devices`, { method: 'GET' })
+fetch(`https://raw.githubusercontent.com/Komodo-OS/official-devices/12/komodo.devices`, { method: 'GET' })
   .then(response => response.text())
   .then(result => {
     const total = result.split(/\r\n|\r|\n/).length
