@@ -262,6 +262,17 @@
         "download" : "https://sourceforge.net/projects/komodos-rom/files/sweet"
     },
     {
+        "brand" : "Xiaomi",
+        "device" : "Redmi Note 11",
+        "codename" : " Spes",
+        "maintainer" : "dblenk9",
+        "github" : "https://github.com/boedhack99",
+        "changelog" : {
+            "Sakura" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/spes"
+        },
+        "download" : "https://www.pling.com/p/1768983/"
+    },
+    {
         "brand" : "Oneplus",
         "device" : "7T",
         "codename" : "OP7T",
