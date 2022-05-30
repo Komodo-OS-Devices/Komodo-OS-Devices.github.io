@@ -2,6 +2,14 @@
   "result": [
     {
       "categorieName": "New",
+      "imgUrl": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_light.png"
+    },
+    {
+      "categorieName": "serunai",
+      "imgUrl": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_blue.png"
+    },
+    {
+      "categorieName": "dragon",
       "imgUrl": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo%20Line.png"
     }
   ]
