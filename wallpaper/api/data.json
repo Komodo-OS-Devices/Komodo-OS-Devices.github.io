@@ -2,38 +2,56 @@
   "result": [
     {
       "creator": "Komodo Squad",
-      "name": "Komodo Dragon",
+      "name": "SweatPea Light",
       "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_light.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "SweatPea Dark",
+      "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_dark.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Komodo Dragon",
+      "category": "dragon",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo%20Line.png"
     },
     {
       "creator": "R5Brush",
       "name": "serunai late",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_late.png"
     },
     {
       "creator": "R5Brush",
       "name": "serunai purple",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_purple.png"
     },
     {
       "creator": "R5Brush",
       "name": "serunai blue",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_blue.png"
     },
     {
       "creator": "R5Brush",
       "name": "serunai pink",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_pink.jpg"
     },
     {
       "creator": "R5Brush",
       "name": "serunai orchid",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_orchid.png"
     },
     {
       "creator": "R5Brush",
       "name": "serunai yellow",
+      "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_yellow.png"
     }
   ]
