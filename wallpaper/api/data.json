@@ -13,12 +13,6 @@
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_dark.png"
     },
     {
-      "creator": "Komodo Squad",
-      "name": "Komodo Dragon",
-      "category": "dragon",
-      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo%20Line.png"
-    },
-    {
       "creator": "R5Brush",
       "name": "serunai late",
       "category": "serunai",
@@ -53,6 +47,12 @@
       "name": "serunai yellow",
       "category": "serunai",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/serunai_yellow.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Komodo Dragon",
+      "category": "dragon",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo%20Line.png"
     }
   ]
 }
