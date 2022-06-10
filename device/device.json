@@ -179,10 +179,12 @@
         "brand" : "Xiaomi",
         "device" : "Redmi Note 7",
         "codename" : "Lavender",
-        "maintainer" : "𝚊𝚕𝚊𝚗𝚗𝚍𝚣",
-        "github" : "https://github.com/𝚊𝚕𝚊𝚗𝚗𝚍𝚣",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/lavender/"
+        "maintainer" : "𝐭𝐫𝐢𝐬𝐟",
+        "github" : "https://github.com/trisfaizal",
+        "changelog" : {
+            "SweetPea" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/tulip"
+        },
+        "download" : "https://www.pling.com/p/1823660/"
     },
     {
         "brand" : "Xiaomi",
