@@ -222,11 +222,11 @@
     {
         "brand" : "Xiaomi",
         "device" : "Redmi Note 9",
-        "codename" : "Merlin",
-        "maintainer" : "Nadins & Alicia",
-        "github" : "https://github.com/developer",
+        "codename" : "Merlinx",
+        "maintainer" : "Luigiee",
+        "github" : "https://github.com/fourninesix",
         "changelog" : {
-            "Sakura" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlinx"
+            "SweetPea" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlinx"
         },
         "download" : "https://www.pling.com/p/1686644/"
     },
