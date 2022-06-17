@@ -56,21 +56,23 @@
     },
     {
         "brand" : "Xiaomi",
+        "device" : "Redmi 4A/5A",
+        "codename" : "Rova",
+        "maintainer" : "ItoRenz",
+        "github" : "https://github.com/ItoRenz",
+        "changelog" : {
+            "SweetPea" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/rova"
+        },
+        "download" : "https://www.pling.com/p/1830809/"
+    },
+    {
+        "brand" : "Xiaomi",
         "device" : "Redmi 5",
         "codename" : "Rosy",
         "maintainer" : "Neno",
         "github" : "https://github.com/developer",
         "changelog" : "",
         "download" : "https://sourceforge.net/projects/komodos-rom/files/rosy/"
-    },
-    {
-        "brand" : "Xiaomi",
-        "device" : "Redmi 5A",
-        "codename" : "Riva",
-        "maintainer" : "Alpha",
-        "github" : "https://github.com/developer",
-        "changelog" : "",
-        "download" : "https://sourceforge.net/projects/komodos-rom/files/riva/"
     },
     {
         "brand" : "Xiaomi",
