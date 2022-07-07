@@ -2,14 +2,26 @@
   "result": [
     {
       "creator": "Komodo Squad",
-      "name": "SweetPea Light",
+      "name": "Sejora Light",
       "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sejora_light.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Sejora Dark",
+      "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sejora_dark.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "SweetPea Light",
+      "category": "sweetpea",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweetpea_light.png"
     },
     {
       "creator": "Komodo Squad",
       "name": "SweetPea Dark",
-      "category": "New",
+      "category": "sweetpea",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweetpea_dark.png"
     },
     {
