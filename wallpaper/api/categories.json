@@ -2,6 +2,10 @@
   "result": [
     {
       "categorieName": "New",
+      "imgUrl": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sejora_dark.png"
+    },
+    {
+      "categorieName": "sweetpea",
       "imgUrl": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_light.png"
     },
     {

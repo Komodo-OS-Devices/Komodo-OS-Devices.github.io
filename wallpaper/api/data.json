@@ -2,15 +2,27 @@
   "result": [
     {
       "creator": "Komodo Squad",
-      "name": "SweatPea Light",
+      "name": "Seroja Light",
       "category": "New",
-      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_light.png"
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/seroja_light.png"
     },
     {
       "creator": "Komodo Squad",
-      "name": "SweatPea Dark",
+      "name": "Seroja Dark",
       "category": "New",
-      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweatpea_dark.png"
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/seroja_dark.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "SweetPea Light",
+      "category": "sweetpea",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweetpea_light.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "SweetPea Dark",
+      "category": "sweetpea",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/sweetpea_dark.png"
     },
     {
       "creator": "R5Brush",
