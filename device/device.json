@@ -228,9 +228,9 @@
         "maintainer" : "Luigiee",
         "github" : "https://github.com/fourninesix",
         "changelog" : {
-            "SweetPea" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlinx"
+            "Seroja" : "https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlinx"
         },
-        "download" : "https://www.pling.com/p/1686644/"
+        "download" : "https://sourceforge.net/projects/komodos-rom/files/merlinx/"
     },
     {
         "brand" : "Xiaomi",
