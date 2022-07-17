@@ -2,14 +2,32 @@
   "result": [
     {
       "creator": "Komodo Squad",
-      "name": "Seroja Light",
+      "name": "Komodo Green Liquid",
       "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo_green_liquid.jpg"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Komodo Land",
+      "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo_land.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Komodo Red",
+      "category": "New",
+      "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/komodo_red.png"
+    },
+    {
+      "creator": "Komodo Squad",
+      "name": "Seroja Light",
+      "category": "seroja",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/seroja_light.png"
     },
     {
       "creator": "Komodo Squad",
       "name": "Seroja Dark",
-      "category": "New",
+      "category": "seroja",
       "wallpaper": "https://raw.githubusercontent.com/Komodo-OS-Devices/Komodo-OS-Devices.github.io/master/wallpaper/seroja_dark.png"
     },
     {
