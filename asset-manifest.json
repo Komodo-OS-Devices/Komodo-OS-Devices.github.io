@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55e82395.css",
+    "main.js": "/static/js/main.7dc99405.js",
+    "static/js/787.d9c9735c.chunk.js": "/static/js/787.d9c9735c.chunk.js",
+    "static/media/paypal.png": "/static/media/paypal.71420c699b10dcb532b5.png",
+    "static/media/qris.png": "/static/media/qris.34d2d33e8298d9c5652d.png",
+    "static/media/merch.jpg": "/static/media/merch.2a3d1e2baa7f0b8007ca.jpg",
+    "static/media/font_regular.otf": "/static/media/font_regular.101be848d2d18e7296bc.otf",
+    "static/media/font_medium.otf": "/static/media/font_medium.a1a50e698ce7cd493ce1.otf",
+    "static/media/font_bold.otf": "/static/media/font_bold.463024f431b0a3769ed9.otf",
+    "static/media/font_light.otf": "/static/media/font_light.baa9639fea2a3259ba0b.otf",
+    "static/media/ss.png": "/static/media/ss.214628bf44581499cc7d.png",
+    "static/media/a11.svg": "/static/media/a11.2d739a17298f21c5bfa005304fb1cded.svg",
+    "static/media/download.svg": "/static/media/download.b01046791db8343a8547d64862bdce08.svg",
+    "static/media/hero.svg": "/static/media/hero.ac841c60110a02ec901bdf3157298660.svg",
+    "index.html": "/index.html",
+    "static/media/quotes.svg": "/static/media/quotes.7846a3cccdc80dd8c5cc.svg",
+    "static/media/brand.svg": "/static/media/brand.52caf444f99ab7165a48d04188470b9d.svg",
+    "static/media/loader.svg": "/static/media/loader.acfe5a0428a2ed2e9f3b.svg",
+    "static/media/shape.svg": "/static/media/shape.1109344ee3e414e6a72baef4f3d64249.svg",
+    "main.55e82395.css.map": "/static/css/main.55e82395.css.map",
+    "main.7dc99405.js.map": "/static/js/main.7dc99405.js.map",
+    "787.d9c9735c.chunk.js.map": "/static/js/787.d9c9735c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e82395.css",
+    "static/js/main.7dc99405.js"
+  ]
+}
