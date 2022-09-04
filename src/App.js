@@ -8,6 +8,7 @@ import Donate from './pages/Donate';
 import Changelog from './pages/Changelog';
 import Team from './pages/Team';
 import Home from './pages/Home';
+import PageNotFound from './pages/PageNotFound';
 import './App.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -81,6 +82,7 @@ function App() {
           <Route path="/merch" element={<Merch />} />
           <Route path="/donate" element={<Donate />} />
           <Route path="/team" element={<Team />} />
+          <Route path="*" element={<PageNotFound />} />
         </Routes>
         <Footer />
       </Router>
