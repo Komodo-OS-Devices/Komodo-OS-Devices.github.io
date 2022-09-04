@@ -252,12 +252,16 @@ function Home() {
 
           <div id="final-section" className="mt-0 pt-5 text-center">
             <p className="h1 mb-4">That's all for now, let's get started!</p>
-            <a
-              href="downloads.html"
+            <Link
+              to="/download"
               className="btn btn-lg btn-primary fs-3 fw-light px-4"
+              onClick={() => {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }}
             >
               Download Now
-            </a>
+            </Link>
           </div>
         </div>
       </section>
