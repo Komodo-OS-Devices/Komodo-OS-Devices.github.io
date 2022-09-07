@@ -49,7 +49,7 @@ const devices = [
     github: 'https://github.com/zkyzzz',
     changelog: [
       {
-        cl_code: 'SweetPea',
+        cl_code: 'Snowdrop',
         link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/beryllium',
       },
     ],
@@ -280,7 +280,7 @@ const devices = [
     github: 'https://github.com/fourninesix',
     changelog: [
       {
-        cl_code: 'Seroja',
+        cl_code: 'Snowdrop',
         link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/merlinx',
       },
     ],
@@ -318,11 +318,11 @@ const devices = [
     brand: 'Xiaomi',
     device: 'Redmi Note 10 Pro/Max',
     codename: 'Sweet',
-    maintainer: 'SAYOOJ',
-    github: 'https://github.com/sayooxx',
+    maintainer: 'Djampt',
+    github: 'https://github.com/',
     changelog: [
       {
-        cl_code: 'Seroja',
+        cl_code: 'Snowdrop',
         link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/sweet',
       },
     ],
@@ -336,7 +336,7 @@ const devices = [
     github: 'https://github.com/boedhack99',
     changelog: [
       {
-        cl_code: 'Sakura',
+        cl_code: 'Snowdrop',
         link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/spes',
       },
     ],
