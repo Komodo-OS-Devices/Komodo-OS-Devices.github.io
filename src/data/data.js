@@ -322,11 +322,11 @@ const devices = [
     github: 'https://github.com/boedhack99',
     changelog: [
       {
-        cl_code: 'Serunai',
+        cl_code: 'Snowdrop',
         link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/mojito',
       },
     ],
-    download: 'https://sourceforge.net/projects/komodos-rom/files/mojito',
+    download: 'https://www.pling.com/p/1861110/',
   },
   {
     brand: 'Xiaomi',
