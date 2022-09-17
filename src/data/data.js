@@ -158,20 +158,6 @@ const devices = [
   },
   {
     brand: 'Xiaomi',
-    device: 'Redmi 10',
-    codename: 'Selene',
-    maintainer: 'mikazuuu07',
-    github: 'https://github.com/Mikazuuu07',
-    changelog: [
-      {
-        cl_code: 'Seroja',
-        link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/selene',
-      },
-    ],
-    download: 'https://sourceforge.net/projects/komodos-rom/files/selene',
-  },
-  {
-    brand: 'Xiaomi',
     device: 'Redmi 9T',
     codename: 'Juice',
     maintainer: '؜fais',
@@ -183,6 +169,34 @@ const devices = [
       },
     ],
     download: 'https://www.pling.com/p/1539069/',
+  },
+  {
+    brand: 'Xiaomi',
+    device: 'Redmi 10',
+    codename: 'Selene',
+    maintainer: 'mikazuuu07',
+    github: 'https://github.com/Mikazuuu07',
+    changelog: [
+      {
+        cl_code: 'Seroja',
+        link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/selene',
+      },
+    ],
+    download: 'https://www.pling.com/p/1861110/',
+  },
+  {
+    brand: 'Xiaomi',
+    device: 'Redmi 10C',
+    codename: 'Fog',
+    maintainer: 'ⓓⓑⓛⓔⓝⓚ',
+    github: 'https://github.com/boedhack99',
+    changelog: [
+      {
+        cl_code: 'Seroja',
+        link: 'https://raw.githubusercontent.com/Komodo-OS-Devices/DeviceChangelogs/main/4.x/fog',
+      },
+    ],
+    download: 'https://www.pling.com/p/1861110/',
   },
   {
     brand: 'Xiaomi',
