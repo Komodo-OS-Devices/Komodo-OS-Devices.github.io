@@ -1,437 +1,674 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/favicon.ico" />
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <!-- Fontawesome -->
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <!-- Fonts Google -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- My CSS -->
+    <link rel="stylesheet" href="scss/main.css" />
 
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/favicon.ico" />
-  <!-- AOS -->
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <!-- Fontawesome -->
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
-  <!-- Fonts Google -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link
-    href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap"
-    rel="stylesheet">
-  <!-- My CSS -->
-  <link rel="stylesheet" href="scss/main.css">
+    <title>Komodo OS</title>
+  </head>
 
-  <title>Komodo OS</title>
-</head>
+  <body>
+    <div id="app">
+      <div id="preloader"></div>
 
-<body>
+      <navbar-component></navbar-component>
 
-  <div id="app">
-
-  <div id="preloader"></div>
-
-  <navbar-component></navbar-component>
-
-  <!-- ? Section 1 : Team -->
-  <section class="mt-5 py-4">
-    <div class="container my-4">
-      <div class="row d-flex align-items-center">
-        <div data-aos="fade-up">
-          <div class="mt-2 text-center">
-            <h1 class="display-5 display-md-4">
-              Our Team
-            </h1>
+      <!-- ? Section 1 : Team -->
+      <section class="mt-5 py-4">
+        <div class="container my-4">
+          <div class="row d-flex align-items-center">
+            <div data-aos="fade-up">
+              <div class="mt-2 text-center">
+                <h1 class="display-5 display-md-4">Our Team</h1>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
+      </section>
+
+      <!-- ? Section 2 : Team -->
+      <section id="section-5" class="pb-5">
+        <div class="bg-primary"></div>
+        <div class="container pb-5">
+          <div
+            class="row row-cols-2 row-cols-lg-4 g-4"
+            data-aos="fade-up"
+            data-aos-offset="280"
+          >
+            <!-- TODO Duplicate these line -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/Kry9toN"
+                  class="card-img-top"
+                  alt="Krypton"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Dhimas Bagus Prayoga</h5>
+                  <p class="small text-muted text-truncate">Founder</p>
+                  <a href="https://github.com/Kry9toN" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/Kry9toN" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/alanndz"
+                  class="card-img-top"
+                  alt="alanndz"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">𝚊𝚕𝚊𝚗𝚗𝚍𝚣</h5>
+                  <p class="small text-muted text-truncate">Founder</p>
+                  <a href="https://github.com/alanndz" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/Kry9toN" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/Mikazuuu07"
+                  class="card-img-top"
+                  alt="Mikazuuu07"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">かず。</h5>
+                  <p class="small text-muted text-truncate">Core Dev</p>
+                  <a href="https://github.com/Mikazuuu07" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/mikazuuu07" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/trisfaizal"
+                  class="card-img-top"
+                  alt="trisf"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">؜𝐭𝐫𝐢𝐬𝐟 三‌‌</h5>
+                  <p class="small text-muted text-truncate">Project Manager</p>
+                  <a href="https://github.com/trisfaizal" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/trisf" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/wulan17"
+                  class="card-img-top"
+                  alt="wulan"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">؜wulan‌‌</h5>
+                  <p class="small text-muted text-truncate">Core Dev</p>
+                  <a href="https://github.com/wulan17" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/wulan17" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/goodmeow"
+                  class="card-img-top"
+                  alt="Goodmeow"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Harun Al Rasyid</h5>
+                  <p class="small text-muted text-truncate">Core Dev</p>
+                  <a href="https://github.com/goodmeow" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/Aarunalr" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/najahiiii"
+                  class="card-img-top"
+                  alt="Najahi"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Najahi</h5>
+                  <p class="small text-muted text-truncate">Core Dev</p>
+                  <a href="https://github.com/najahiiii" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/Najahiii" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/Gnonymous7"
+                  class="card-img-top"
+                  alt="Gnonymous7"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Gnonymous</h5>
+                  <p class="small text-muted text-truncate">UI Designer</p>
+                  <a href="https://github.com/Gnonymous7" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/ImYourGege" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/aryanataandi"
+                  class="card-img-top"
+                  alt="Aryanata"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Aryanata</h5>
+                  <p class="small text-muted text-truncate">
+                    Web Developer | Designer
+                  </p>
+                  <a href="https://github.com/aryanataandi" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/aryanata_andi" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/zamprjkt"
+                  class="card-img-top"
+                  alt="zamprjkt"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Kiko ☘</h5>
+                  <p class="small text-muted text-truncate">Designer</p>
+                  <a href="https://github.com/zamprjkt" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/naalpha" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/henrysg29"
+                  class="card-img-top"
+                  alt="henrysg29"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">• нεηsнιη</h5>
+                  <p class="small text-muted text-truncate">Realme 5/I/S</p>
+                  <a href="https://github.com/henrysg29" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/henztz" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/hadad"
+                  class="card-img-top"
+                  alt="hadad"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Hadad</h5>
+                  <p class="small text-muted text-truncate">Redmi 7</p>
+                  <a href="https://github.com/hadad" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/hdrjt" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/felixandi79"
+                  class="card-img-top"
+                  alt="felixandi79"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Felixxandi79</h5>
+                  <p class="small text-muted text-truncate">
+                    Realme C3/Narzo 10A
+                  </p>
+                  <a href="https://github.com/felixandi79" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/felixxandi79" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/deny2311"
+                  class="card-img-top"
+                  alt="deny2311"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">deny2311</h5>
+                  <p class="small text-muted text-truncate">Mi 6</p>
+                  <a href="https://github.com/deny2311" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/deny2311" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/frostg-012"
+                  class="card-img-top"
+                  alt="frostg-012"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">frost</h5>
+                  <p class="small text-muted text-truncate">
+                    Poco M3 / Redmi 9T
+                  </p>
+                  <a href="https://github.com/frostg-012" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/frostg012" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/Thunder105"
+                  class="card-img-top"
+                  alt="Thunder105"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Hariprakash</h5>
+                  <p class="small text-muted text-truncate">Redmi Note 7 Pro</p>
+                  <a href="https://github.com/Thunder105" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/Thunder105" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/Naxo79"
+                  class="card-img-top"
+                  alt="Naxo79"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Ignacio Garcia</h5>
+                  <p class="small text-muted text-truncate">Moto G7 Power</p>
+                  <a href="https://github.com/Naxo79" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/Naxo79" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/TeraaBytee"
+                  class="card-img-top"
+                  alt="TeraaBytee"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">TeraaBytee</h5>
+                  <p class="small text-muted text-truncate">Redmi Note 8 Pro</p>
+                  <a href="https://github.com/TeraaBytee" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/TeraaBytee" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/skittels15"
+                  class="card-img-top"
+                  alt="skittels15"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">乃乇乇尺ᗪ爪卂几几 🇷🇺</h5>
+                  <p class="small text-muted text-truncate">
+                    Redmi 8/8A/8A Dual
+                  </p>
+                  <a href="https://github.com/skittels15" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/beerdmann" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/WisnuArdhi28"
+                  class="card-img-top"
+                  alt="WisnuArdhi34"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">WisnuArdhi34</h5>
+                  <p class="small text-muted text-truncate">Redmi Note 8/8T</p>
+                  <a href="https://github.com/WisnuArdhi28" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/WisnuArdhi34" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/zkyzzz"
+                  class="card-img-top"
+                  alt="zkyzzz"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">A. Dzaky</h5>
+                  <p class="small text-muted text-truncate">
+                    Poco X3 Pro & Poco F1
+                  </p>
+                  <a href="https://github.com/zkyzzz" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/zkyzzz" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/fourninesix"
+                  class="card-img-top"
+                  alt="fourninesix"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Luigiee</h5>
+                  <p class="small text-muted text-truncate">Redmi Note 9</p>
+                  <a href="https://github.com/fourninesix" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/Luigiee" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/official-mocha"
+                  class="card-img-top"
+                  alt="official-mocha"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">ＭＯＣＨＡ</h5>
+                  <p class="small text-muted text-truncate">Redmi Note 6 Pro</p>
+                  <a href="https://github.com/official-mocha" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/official_mocha" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/AIV-97"
+                  class="card-img-top"
+                  alt="AIV-97"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Fraschze97</h5>
+                  <p class="small text-muted text-truncate">Realme C2</p>
+                  <a href="https://github.com/AIV-97" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/noob_permanently2" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/unsatifsed27"
+                  class="card-img-top"
+                  alt="SAYOOJ"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">Dampt...</h5>
+                  <p class="small text-muted text-truncate">
+                    Redmi Note 10 Pro/Max
+                  </p>
+                  <a href="https://github.com/sayooxx" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="http://t.me/Djampt" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/buglessx"
+                  class="card-img-top"
+                  alt="buglessx"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">. ƒαυzαη</h5>
+                  <p class="small text-muted text-truncate">Poco X3 NFC</p>
+                  <a href="https://github.com/buglessx" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/nowulimited" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+            <div class="col">
+              <!-- * Card -->
+              <div class="bg-white h-100 shadow rounded">
+                <img
+                  src="https://avatars.githubusercontent.com/ItoRenz"
+                  class="card-img-top"
+                  alt="ItoRenz"
+                />
+                <div class="card-body text-center">
+                  <h5 class="fw-bold">ItoRenz</h5>
+                  <p class="small text-muted text-truncate">Redmi 4X 4A/5A</p>
+                  <a href="https://github.com/ItoRenz" target="_blank"
+                    ><i class="fab fa-github fa-lg text-dark mx-1"></i
+                  ></a>
+                  <a href="https://t.me/ItoRenz" target="_blank"
+                    ><i class="fab fa-telegram fa-lg mx-1"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- * End of card -->
+          </div>
+        </div>
+      </section>
+
+      <footer-component></footer-component>
+
+      <!-- ? Scroll to top Button -->
+      <button
+        onclick="topFunction()"
+        class="rounded-circle shadow-lg"
+        id="scroll-top"
+        title="Go to top"
+      >
+        <i class="fas fa-arrow-up"></i>
+      </button>
     </div>
-  </section>
 
-  <!-- ? Section 2 : Team -->
-  <section id="section-5" class="pb-5">
-    <div class="bg-primary"></div>
-    <div class="container pb-5">
-      <div class="row row-cols-2 row-cols-lg-4 g-4" data-aos="fade-up" data-aos-offset="280">
-        <!-- TODO Duplicate these line -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/Kry9toN" class="card-img-top" alt="Krypton">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Dhimas Bagus Prayoga</h5>
-              <p class="small text-muted text-truncate">Founder</p>
-              <a href="https://github.com/Kry9toN" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/Kry9toN" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/alanndz" class="card-img-top" alt="alanndz">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">𝚊𝚕𝚊𝚗𝚗𝚍𝚣</h5>
-              <p class="small text-muted text-truncate">Founder</p>
-              <a href="https://github.com/alanndz" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/Kry9toN" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/Mikazuuu07" class="card-img-top" alt="Mikazuuu07">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">かず。</h5>
-              <p class="small text-muted text-truncate">Core Dev</p>
-              <a href="https://github.com/Mikazuuu07" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/mikazuuu07" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/trisfaizal" class="card-img-top" alt="trisf">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">؜𝐭𝐫𝐢𝐬𝐟 三‌‌</h5>
-              <p class="small text-muted text-truncate">Project Manager</p>
-              <a href="https://github.com/trisfaizal" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/trisf" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/wulan17" class="card-img-top" alt="wulan">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">؜wulan‌‌</h5>
-              <p class="small text-muted text-truncate">Core Dev</p>
-              <a href="https://github.com/wulan17" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/wulan17" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/goodmeow" class="card-img-top" alt="Goodmeow">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Harun Al Rasyid</h5>
-              <p class="small text-muted text-truncate">Core Dev</p>
-              <a href="https://github.com/goodmeow" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/Aarunalr" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/najahiiii" class="card-img-top" alt="Najahi">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Najahi</h5>
-              <p class="small text-muted text-truncate">Core Dev</p>
-              <a href="https://github.com/najahiiii" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/Najahiii" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/Gnonymous7" class="card-img-top" alt="Gnonymous7">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Gnonymous</h5>
-              <p class="small text-muted text-truncate">UI Designer</p>
-              <a href="https://github.com/Gnonymous7" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/ImYourGege" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/aryanataandi" class="card-img-top" alt="Aryanata">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Aryanata</h5>
-              <p class="small text-muted text-truncate">Web Developer | Designer</p>
-              <a href="https://github.com/aryanataandi" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/aryanata_andi" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/zamprjkt" class="card-img-top" alt="zamprjkt">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Kiko ☘</h5>
-              <p class="small text-muted text-truncate">Designer</p>
-              <a href="https://github.com/zamprjkt" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/naalpha" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/henrysg29" class="card-img-top" alt="henrysg29">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">• нεηsнιη</h5>
-              <p class="small text-muted text-truncate">Realme 5/I/S</p>
-              <a href="https://github.com/henrysg29" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/henztz" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/hadad" class="card-img-top" alt="hadad">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Hadad</h5>
-              <p class="small text-muted text-truncate">Redmi 7</p>
-              <a href="https://github.com/hadad" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/hdrjt" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/felixandi79" class="card-img-top" alt="felixandi79">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Felixxandi79</h5>
-              <p class="small text-muted text-truncate">Realme C3/Narzo 10A</p>
-              <a href="https://github.com/felixandi79" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/felixxandi79" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/deny2311" class="card-img-top" alt="deny2311">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">deny2311</h5>
-              <p class="small text-muted text-truncate">Mi 6</p>
-              <a href="https://github.com/deny2311" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/deny2311" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/frostg-012" class="card-img-top" alt="frostg-012">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">frost</h5>
-              <p class="small text-muted text-truncate">Poco M3 / Redmi 9T</p>
-              <a href="https://github.com/frostg-012" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/frostg012" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/Thunder105" class="card-img-top" alt="Thunder105">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Hariprakash</h5>
-              <p class="small text-muted text-truncate">Redmi Note 7 Pro</p>
-              <a href="https://github.com/Thunder105" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/Thunder105" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/Naxo79" class="card-img-top" alt="Naxo79">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Ignacio Garcia</h5>
-              <p class="small text-muted text-truncate">Moto G7 Power</p>
-              <a href="https://github.com/Naxo79" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/Naxo79" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/TeraaBytee" class="card-img-top" alt="TeraaBytee">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">TeraaBytee</h5>
-              <p class="small text-muted text-truncate">Redmi Note 8 Pro</p>
-              <a href="https://github.com/TeraaBytee" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/TeraaBytee" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/skittels15" class="card-img-top" alt="skittels15">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">乃乇乇尺ᗪ爪卂几几 🇷🇺</h5>
-              <p class="small text-muted text-truncate">Redmi 8/8A/8A Dual</p>
-              <a href="https://github.com/skittels15" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/beerdmann" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/WisnuArdhi28" class="card-img-top" alt="WisnuArdhi34">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">WisnuArdhi34</h5>
-              <p class="small text-muted text-truncate">Redmi Note 8/8T</p>
-              <a href="https://github.com/WisnuArdhi28" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/WisnuArdhi34" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/zkyzzz" class="card-img-top" alt="zkyzzz">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">A. Dzaky</h5>
-              <p class="small text-muted text-truncate">Poco X3 Pro & Poco F1</p>
-              <a href="https://github.com/zkyzzz" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/zkyzzz" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/fourninesix" class="card-img-top" alt="fourninesix">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Luigiee</h5>
-              <p class="small text-muted text-truncate">Redmi Note 9</p>
-              <a href="https://github.com/fourninesix" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/Luigiee" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/official-mocha" class="card-img-top" alt="official-mocha">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">ＭＯＣＨＡ</h5>
-              <p class="small text-muted text-truncate">Redmi Note 6 Pro</p>
-              <a href="https://github.com/official-mocha" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/official_mocha" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/AIV-97" class="card-img-top" alt="AIV-97">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Fraschze97</h5>
-              <p class="small text-muted text-truncate">Realme C2</p>
-              <a href="https://github.com/AIV-97" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/noob_permanently2" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/unsatifsed27" class="card-img-top" alt="SAYOOJ">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">Dampt...</h5>
-              <p class="small text-muted text-truncate">Redmi Note 10 Pro/Max</p>
-              <a href="https://github.com/sayooxx" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="http://t.me/Djampt" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/buglessx" class="card-img-top" alt="buglessx">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">. ƒαυzαη</h5>
-              <p class="small text-muted text-truncate">Poco X3 NFC</p>
-              <a href="https://github.com/buglessx" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/nowulimited" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-        <div class="col">
-          <!-- * Card -->
-          <div class="bg-white h-100 shadow rounded">
-            <img src="https://avatars.githubusercontent.com/ItoRenz" class="card-img-top" alt="ItoRenz">
-            <div class="card-body text-center">
-              <h5 class="fw-bold">ItoRenz</h5>
-              <p class="small text-muted text-truncate">Redmi 4X 4A/5A</p>
-              <a href="https://github.com/ItoRenz" target="_blank"><i
-                  class="fab fa-github fa-lg text-dark mx-1"></i></a>
-              <a href="https://t.me/ItoRenz" target="_blank"><i class="fab fa-telegram fa-lg mx-1"></i></a>
-            </div>
-          </div>
-        </div> <!-- * End of card -->
-      </div>
-    </div>
-  </section>
-
-  <footer-component></footer-component>
-
-  <!-- ? Scroll to top Button -->
-  <button onclick="topFunction()" class="rounded-circle shadow-lg" id="scroll-top" title="Go to top">
-    <i class="fas fa-arrow-up"></i>
-  </button>
-
-  </div>
-
-  <!-- Vue -->
-  <script src="./js/vue.js"></script>
-  <script src="./js/vue-router.js"></script>
-  <script src="js/comp.js"></script>
-  <!-- Bootstrap Bundle with Popper -->
-  <script src="./lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <!-- AOS -->
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <!-- jQuery -->
-  <script src="https://code.jquery.com/jquery-3.5.1.min.js"
-    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-  <!-- My Javascript -->
-  <script src="js/main.js"></script>
-  <script src="js/index.js"></script>
-
-</body>
-
+    <!-- Vue -->
+    <script src="./js/vue.js"></script>
+    <script src="./js/vue-router.js"></script>
+    <script src="js/comp.js"></script>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="./lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AOS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- jQuery -->
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.min.js"
+      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+      crossorigin="anonymous"
+    ></script>
+    <!-- My Javascript -->
+    <script src="js/main.js"></script>
+    <script src="js/index.js"></script>
+  </body>
 </html>

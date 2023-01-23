@@ -1,6 +1,6 @@
 // changelog
 const Reptile = {
-    template: `
+  template: `
     <div>
         <p class="display-6">
             Reptile
@@ -29,11 +29,11 @@ const Reptile = {
             <li>Remove device hostname</li>
         </ul>
     </div>
-    `
-}
+    `,
+};
 
 const Riverdale = {
-    template: `
+  template: `
     <div>
         <p class="display-6">
             Riverdale
@@ -53,21 +53,21 @@ const Riverdale = {
             <li>Remove device hostname</li>
         </ul>
     </div>
-    `
-}
+    `,
+};
 
 // routes
 const router = new VueRouter({
-    mode: 'history',
-    routes: [
-        { path:'/', component: Reptile },
-        { path:'/riverdale', component: Riverdale }
-    ]
-})
+  mode: "history",
+  routes: [
+    { path: "/", component: Reptile },
+    { path: "/riverdale", component: Riverdale },
+  ],
+});
 
 // component
 Vue.component("navbar-component", {
-  props: ['placement'],
+  props: ["placement"],
   template: `
     <nav id="navbar" :class="placement" class="navbar navbar-index navbar-expand-lg navbar-light py-3 bg-white py-md-4">
     <div class="container">
